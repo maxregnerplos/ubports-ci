@@ -1,4 +1,4 @@
-# UBports GH Actions kugo
+# UBports GH Actions 
 This repository enables images to be built from GitHub Actions.
 
 ![](https://github.com/ubports-santoni/ubports-ci/workflows/Build%20System%20Image/badge.svg)
